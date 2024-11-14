@@ -1,5 +1,5 @@
 prasadkilaparthi# 💫 About Me:
-🔭 I’m currently working on React, JSS, .NET<br>👯 I’m looking to collaborate on Full stack development<br>🤝 I’m looking for help with API Design<br>🌱 I’m currently learning React, Tailwindcss<br>💬 Ask me about .NET, React<br>⚡ Fun fact I can play cricket
+🔭 I’m currently working on React, JSS, .NET<br>👯 I’m looking to collaborate on Full stack development<br>🤝 I’m looking for help with API Design<br>🌱 I’m currently learning React, Tailwindcss<br>💬 Ask me about .NET, React<br>⚡ Fun fact I can play cricket.
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/prasad1016?theme=dark&font=Roboto%20Mono&ext=heatmap)
 # 💻 Tech Stack:
